@@ -1,0 +1,16 @@
+{
+    "db_path" : "2024-08-20_merged_June_results.nc",
+    "sensor_status_file_path" : "Sensors_status_V00.xlsx",
+    "start_date" : "2024-05-07 00:00:00",
+    "select_weather_channel" : ["simu_AI_WindSpeed", 
+                                    "simu_V_ST_TrueWindDir",
+                                    "simu_hs",
+                                    "simu_tp",
+                                    "simu_dp",
+                                    "simu_cur_dir",
+                                    "simu_cur"],
+    "selected_channels_ds_overview" : ["V_RotorRpm", "simu_V_RotorRpm", "AI_WindSpeed", "hm0"],
+
+    "list_envir_for_pair_plot" : ["simu_AI_WindSpeed", "simu_V_ST_TrueWindDir", "simu_hs", "simu_tp", "simu_cur_dir", "simu_cur"]
+
+}

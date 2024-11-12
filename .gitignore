@@ -1,0 +1,16 @@
+# Paths:
+**/__pycache__/
+**/test_report.html
+
+# Repositories:
+.vscode/*
+.vs/*
+_build/*
+dist/*
+*.egg-info/*
+
+# Extensions:
+*.grib2
+*.nc
+*.log
+*.xlsx
